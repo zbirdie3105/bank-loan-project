@@ -4,7 +4,7 @@
 
 You are given `loan.csv` which shows loan approvals for certain interest rates.
 
-Your assignement is to predict whether someone will get an interest rate of 9% or lower, depending on external data such as FICO score and monthly income.
+Your assignment is to predict whether someone will get an interest rate of 9% or lower, depending on external data such as FICO score and monthly income.
 
 Data is provided in the CSV file, but you may engineer other predictors to increase the power of your model.
 
@@ -13,6 +13,8 @@ Data is provided in the CSV file, but you may engineer other predictors to incre
 - Plot the Confusion Matrix
 - What do you wish to avoid more, false positives or false negatives? Why?
 - What do you want to set your threshold at as to maximize your business objectives?
+- Justify your code/analysis
+- What are your recommendations?
 
 ### Data Dictionary
 
