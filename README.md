@@ -10,6 +10,7 @@ Data is provided in the CSV file, but you may engineer other predictors to incre
 
 - Use Grid Search to find the best model
 - Plot the ROC curve with AUC score, Accuracy, Precision and Recall
+- Plot the Confusion Matrix
 - What do you wish to avoid, false positives or false negatives? Why?
 - What do you want to set your threshold at as to maximize your business objectives?
 
