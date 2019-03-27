@@ -9,7 +9,7 @@ Your assignement is to predict whether someone will get an interest rate of 9% o
 Data is provided in the CSV file, but you may engineer other predictors to increase the power of your model.
 
 - Use Grid Search to find the best model
-- Plot the ROC curve with AUC score
+- Plot the ROC curve with AUC score, Accuracy, Precision and Recall
 - What do you wish to avoid, false positives or false negatives? Why?
 - What do you want to set your threshold at as to maximize your business objectives?
 
